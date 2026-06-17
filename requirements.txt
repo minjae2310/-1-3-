@@ -1,5 +1,5 @@
 streamlit
 google-genai
 punishment-roulette
-├─ app.py
-└─ requirements.txt
+app.py
+requirements.txt
